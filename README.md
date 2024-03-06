@@ -1,3 +1,7 @@
+![](https://img.shields.io/github/issues/cyclothymia/ipinfo-cli)
+![](https://img.shields.io/github/stars/cyclothymia/ipinfo-cli)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # ipinfo-cli
 
 A Command Line Interface (CLI) tool for retrieving information about IP addresses using the ipinfo.io API.
